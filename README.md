@@ -117,6 +117,5 @@ We encourage you to follow the guidelines for coding style and commit messages.
 ## License 📝
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to modify this README according to your project's specific features or instructions!
+## Credits
+I made this Spring Security Component for NavGo Project by Abhyudaya Coding Club^{TM}
