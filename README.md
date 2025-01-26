@@ -119,3 +119,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Credits
 I made this Spring Security Component for NavGo Project by Abhyudaya Coding Club™
+
+## Contact
+For any queries feel free to mail me at: [Email](https://mailto:devang122indmp@gmail.com)
